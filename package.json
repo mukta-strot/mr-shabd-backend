@@ -1,0 +1,20 @@
+{
+  "name": "mr-shabd-backend",
+  "version": "1.0.0",
+  "description": "backend for marathi-shabd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-kaustubh/mr-shabd-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-kaustubh/mr-shabd-backend/issues"
+  },
+  "homepage": "https://github.com/the-kaustubh/mr-shabd-backend#readme"
+}
