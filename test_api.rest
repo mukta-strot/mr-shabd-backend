@@ -1,0 +1,18 @@
+http://localhost:3000
+-i
+Accept: */*
+--
+
+--
+GET /
+
+--
+GET /word/experience
+
+--
+POST /word/
+{
+  "en": "experience",
+  "mr": "अनुभव",
+  "tags": "general"
+}
